@@ -1,0 +1,8 @@
+{
+    "BotNotInVoiceChannel": ":x: Je ne suis pas connecté à un serveur vocal. Tape `-join` pour m'ajouter",
+    "BotNotInVoiceChannelPause": ":x: Tu dois être dans un salon vocal pour mettre en pause la musique",
+    "BotInPlay": "En train de jouer :notes: ",
+    "AddToQueue": "Ajouté à la file d'attente !",
+    "BotPageNotFound": ":x: Cette page n'existe pas",
+    "PauseMusic": ":pause_button: Pause :thumbsup:"
+}
